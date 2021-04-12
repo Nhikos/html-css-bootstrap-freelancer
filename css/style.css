@@ -1,0 +1,34 @@
+.container {
+    /* height: 200px;
+    background-color: aquamarine; */
+}
+
+.row {
+    height: 105px;
+    /* background-color: blueviolet; */
+}
+
+[class*="col-"] {
+    height: 100px;
+    /* background-color: red; */
+    border: 1px solid white;
+}
+
+img {
+    width: 60px;
+}
+
+.background_darkblue {
+    background-color: darkblue;
+    color: white;
+}
+
+.background_blue {
+    background-color: blue;
+    color: white;
+}
+
+.background_green {
+    background-color: lightgreen;
+    color: white;
+}
